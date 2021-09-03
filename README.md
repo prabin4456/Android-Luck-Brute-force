@@ -10,7 +10,7 @@ $ pkg install sudo adb
 
 $ git clone https://github.com/prabin4456/Android-Luck-Brute-force.git
 
-$ Android-Luck-Brute-force
+$ cd Android-Luck-Brute-force
 
 $ chomd +x pin brute force.sh
 
