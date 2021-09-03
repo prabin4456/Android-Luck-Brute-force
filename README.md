@@ -8,9 +8,9 @@ and usb cable and otg connect luck device
 
 $ pkg install sudo adb
 
-$ git clone https://github.com/prabin4456/Android-Luck-Brute-force.git
+$ git clone https://github.com/prabin4456/android-luck-brute-force.git
 
-$ cd Android-Luck-Brute-force
+$ cd android-luck-brute-force
 
 $ chomd +x pin brute force.sh
 
